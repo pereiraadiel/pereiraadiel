@@ -11,9 +11,9 @@
 
 ### Talking about Personal Stuffs
 
-- 👩🏻‍💻 I'm CS Student at UFU;
+- 💻 I'm CS Student at UFU;
 
-- 👩🏻‍💻 I’m currently working on something cool :wink:;
+- 💻 I’m currently working on something cool :wink:;
 
 - 🌱 I’m currently learning Node.js, React and React Native; 
 
