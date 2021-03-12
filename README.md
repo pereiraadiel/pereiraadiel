@@ -2,7 +2,7 @@
 
 ### Welcome to my page!
 <p>
-  I'm Adiel, Fullstack developer currently living in
+  I'm Adiel, Backend developer currently living in
   <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" />
   <b>Brazil</b>.
 </p>
